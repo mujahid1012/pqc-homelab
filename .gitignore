@@ -1,0 +1,8 @@
+*.key
+*.pem
+*.crt
+*.pcap
+*.qcow2
+.env
+node_modules/
+__pycache__/
